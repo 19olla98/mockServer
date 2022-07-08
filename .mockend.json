@@ -1,42 +1,18 @@
 {
  "Cards": {
-  "108bf37b": {
+  "123456789": {
    "tx_list": {},
    "authorized": true,
    "energy_charged": 6942069,
    "current_session": 0
   },
-  "113e0236": {
-   "tx_list": {},
-   "authorized": true,
-   "energy_charged": 12345,
-   "current_session": 0
-  },
-  "40b66b7c": {
-   "tx_list": {},
-   "authorized": true,
-   "energy_charged": 6942069,
-   "current_session": 0
-  },
-  "bd52b9a0": {
-   "tx_list": {},
-   "authorized": true,
-   "energy_charged": 6942069,
-   "current_session": 0
-  }
  },
  "Macs": {
-  "001823375907": {
+  "123456789": {
    "tx_list": {},
    "authorized": true,
    "energy_charged": 12345,
    "current_session": 0
   },
-  "DC442718546C": {
-   "tx_list": {},
-   "authorized": true,
-   "energy_charged": 12345,
-   "current_session": 0
-  }
- }
+ },
 }
