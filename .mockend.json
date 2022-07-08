@@ -1,7 +1,11 @@
 {
   "Post": {
-    "cover": {
-      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
+    "charged": {
+      "int": [
+        100,
+        200,
+        300
+      ]
     },
     "title": {
       "loremWords": {
