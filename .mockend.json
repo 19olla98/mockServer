@@ -1,12 +1,12 @@
 {
  "Cards": {
   "123456789": {
-   "energy_charged": 6942069
+   "energy_charged": { "int": { "min": 0, "max": 1000000 } }
   }
  },
  "Macs": {
   "123456789": {
-   "energy_charged": 12345
+   "energy_charged": { "int": { "min": 0, "max": 1000000 } }
   }
  }
 }
