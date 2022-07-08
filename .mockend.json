@@ -1,8 +1,9 @@
 {
  "Cards": {
-   "energy_charged": { "int": { "min": 0, "max": 1000000 } }
+   "code": { "int": { "min": 0, "max": 1000000 } 
+    }
  },
  "Macs": {
-   "energy_charged": { "int": { "min": 0, "max": 1000000 } }
+   "code": { "int": { "min": 0, "max": 1000000 } }
  }
 }
