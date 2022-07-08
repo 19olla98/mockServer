@@ -1,12 +1,12 @@
 {
  "Cards": {
   "123456789": {
-   "energy_charged": 6942069,
+   "energy_charged": 6942069
   }
  },
  "Macs": {
   "123456789": {
-   "energy_charged": 12345,
+   "energy_charged": 12345
   }
  }
 }
