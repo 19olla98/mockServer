@@ -1,5 +1,5 @@
 {
- "cards": {
+ "Cards": {
   "108bf37b": {
    "tx_list": {},
    "authorized": true,
@@ -25,7 +25,7 @@
    "current_session": 0
   }
  },
- "macs": {
+ "Macs": {
   "001823375907": {
    "tx_list": {},
    "authorized": true,
