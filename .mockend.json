@@ -1,18 +1,12 @@
 {
  "Cards": {
   "123456789": {
-   "tx_list": {},
-   "authorized": true,
    "energy_charged": 6942069,
-   "current_session": 0
   }
  },
  "Macs": {
   "123456789": {
-   "tx_list": {},
-   "authorized": true,
    "energy_charged": 12345,
-   "current_session": 0
   }
  }
 }
