@@ -1,5 +1,5 @@
 {
-  "Cards": {
+  "Test": {
     "charged": {
       "int": { "min": 0, "max": 1000000 }
     }
