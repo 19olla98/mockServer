@@ -1,7 +1,6 @@
 {
   "Card": {
-    "charged": {
-      "int": { "min": 0, "max": 1000000 }
-    }
+    "charged": { "int": { "min": 0, "max": 1000000 } }
+    "amp": { "int":  { "min": 0, "max": 32 } }
   }
 }
