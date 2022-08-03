@@ -1,5 +1,5 @@
 {
-    "account": {
+    "Account": {
         "chargePoint": { "string": ["1ladeplatz2","1ladeplatz3"] }
     }
 }
