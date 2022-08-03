@@ -11,16 +11,7 @@
         "highPowerAuthorized": { "boolean": {} },
         "name": { "regexp": "[A-Z][a-z]{5,10}" },
         "singlePhaseCharge": { "boolean": {} },
-        "txList": { "int": [
-            48,
-            49,
-            51,
-            52,
-            54,
-            57,
-            58,
-            59
-        ] },
+        "txList": {"hasMany": "currentTx" },
         "var1": { "string": {} }
         
     }
