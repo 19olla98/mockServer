@@ -1,14 +1,5 @@
 {
-    "account": "bd52b9a0",
-    "chargePoint": "1ladeplatz3",
-    "endMeter": 1400,
-    "endTime": 1657784008,
-    "endTimeWord": "14 Jul 22 07:33 UTC",
-    "energyUsed": 0,
-    "error": false,
-    "id": 26,
-    "isFinished": true,
-    "startMeter": 1400,
-    "startTime": 1657783990,
-    "startTimeWord": "14 Jul 22 07:33 UTC"
+    "account": {
+        "chargePoint": { "string": ["1ladeplatz2","1ladeplatz3"] }
+    }
 }
