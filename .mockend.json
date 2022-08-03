@@ -1,6 +1,6 @@
 {
     "Account": {
-        "accountAuthorized": { "bool": [ true,false] },
+        "accountAuthorized": { "boolean": {} },
         "chargePoint": { "string": ["1ladeplatz2","1ladeplatz3"] }                      
     }
 }
