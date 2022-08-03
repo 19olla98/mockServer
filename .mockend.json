@@ -1,6 +1,8 @@
 {
     "Account": {
         "accountAuthorized": { "boolean": {} },
-        "chargePoint": { "string": ["1ladeplatz2","1ladeplatz3"] }                      
+        "chargePoint": { "string": ["1ladeplatz2","1ladeplatz3"] },
+        "currentAssigned": { "int": { "min": 0, "max": 16 } },
+        
     }
 }
