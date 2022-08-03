@@ -2,7 +2,26 @@
     "Account": {
         "accountAuthorized": { "boolean": {} },
         "chargePoint": { "string": ["1ladeplatz2","1ladeplatz3"] },
-        "currentAssigned": { "int": { "min": 0, "max": 16 } }
+        "currentAssigned": { "int": { "min": 0, "max": 32 } },
+        "currentPowerinWatts": { "int": { "min": 0, "max": 22000 } },
+        "currentTx": { "int": { "min": 0, "max": 100 } },
+        "doneCharging": { "boolean": {} },
+        "energyUsed": { "int": { "min": 0, "max": 100000 } },
+        "error": { "boolean": {} },
+        "highPowerAuthorized": { "boolean": {} },
+        "name": { "regexp": "[A-Z][a-z]{5,10}" },
+        "singlePhaseCharge": { "boolean": {} },
+        "txList": { "string": [
+            48,
+            49,
+            51,
+            52,
+            54,
+            57,
+            58,
+            59
+        ] },
+        "var1": { "string": {} }
         
     }
 }
