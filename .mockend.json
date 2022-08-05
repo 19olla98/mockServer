@@ -14,4 +14,17 @@
         "txList": { "int": { "min": 0, "max": 100 } [] },
         "var1": { "string": {} }   
     }
+    "Transaction": {
+        "account": { "string": {} },
+        "chargePoint": { "string": ["1ladeplatz2","1ladeplatz3"] },
+        "endMeter": { "int": { "min": 0, "max": 100000 } },
+        "endTime": { "int": { "min": 1658986638, "max": 1658996628 } },
+        "endTimeWord": { "string": {} },
+        "energyUsed": { "int": { "min": 0, "max": 100000 } },
+        "error": { "boolean": {} },
+        "isFinished": { "boolean": {} },
+        "startMeter": { "int": { "min": 0, "max": 100000 } },
+        "startTime": { "int": { "min": 1658986638, "max": 1658996628 } },
+        "startTimeWord": { "string": {} }
+    }
 }
