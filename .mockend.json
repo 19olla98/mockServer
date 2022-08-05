@@ -11,7 +11,7 @@
         "highPowerAuthorized": { "boolean": {} },
         "name": { "regexp": "[A-Z][a-z]{5,10}" },
         "singlePhaseCharge": { "boolean": {} },
-        "txList": {"hasMany": "currentTx" },
+        "txList": {"loremParagraphs": { "minLength": 200, "maxLength": 500 }},
         "var1": { "string": {} }
         
     }
